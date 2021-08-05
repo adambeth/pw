@@ -1,0 +1,134 @@
+{
+  "cookies": [
+    {
+      "sameSite": "None",
+      "name": "_GRECAPTCHA",
+      "value": "09ADKZGYrRUqNxGLv6lpDLN_QryGc32lizPLbEPsuzyI9FTd7iV9iySWB78Sm1x5eNCuFQTKKsqerKrYc_C9psSFM",
+      "domain": ".google.com",
+      "path": "/recaptcha",
+      "expires": 1643621719.834663,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__ssid",
+      "value": "b34797421bfa3572abe0e37d6343b87",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1754300117,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "2018-06-04-cookie-policy-acknowledged",
+      "value": "true",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1943429719,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "g-recaptcha-response",
+      "value": "03AGdBq24rkvk0ll7BSPtNk2ii2NuexzsuHmjd9UnLmPibJsLbSUa-fEkzkwHNER-Up3CD5AY80hbnTfURlfUS7P3NMngxBP60Lf0m8kP_YRvBO35YU9hDHbgi0LdhlMtrD3klwK-R1Igi7tthKOQPHVv1bR1W69cCICNvBb-TNVPDOZmxFMrCjMyz4Nnp9iNcJXohHTZ3c-jhYAUY0GMq2ewEgidUTpWDLqjaiNy9803cfSvtKEF9FBeKyTm6wwGX-mCSqc_xQgbzkuVin9FHiBreyVq7cAzLzzTuABg3_4xASnzffvN-hzcXziF6mZ8uYluWMc25fF0vQDwtPiQOsCrBtazPBc6kK92q_zsqAahy_Zt7O_aSezdVBFkouG5Ll7XmwHpeST4IP2fkLf-xRF1V4lyRg--r52yZ7Naftqlt6iFSQf9y4M3YbD6waxSbsNH9RdOIgvppIxgiBOVIlwiQv4pMVSZLCF-vyRgtM0VWm2xs1LR5My922VaKacqUkBl79Xw-TCOumKc6Ygq9CvOmEIS5In9spd9legYMK0RwyYrMSxh90ajVQyzoEozPw8geafHJsRXq9h_s5DmGQUm65hDMO9V-WNWTbk7ArNkN0YG6KJb_cQAQ_fCMjML-1B-vepB7CyIcLb_a7bDxpdFWX6ZmXgYNlvn1Yi1xcjyrKdFDur2WYpeQTcW2eBxiFus2-PtCy_iEC1EDlGqNtGzij3Gyd1YIg2Ct_Jta03NrGs70QXOHIkTJY5tmxV2EOsKnLI80FGpmGhWA9kLamYhRTFVeTcmy5JCTdK_7DwttY_dYa9IX7iw8U02mNdBb-GJWAXDybkg6GCBQ6N76uZJwjEzdHbl2d5lmwhs28z1St-W2vWn-Dm6fY5E0RdLKEL0P_CW--EQ1dqrog-qWLeMu3SfNcg4jaKYj4_cx6WnUvuAPrahCKOg2FiyfhngSNgzqnnEvTYu3TzoYavKFnYvVAmDh4Nr6MUor2WET--w3FIi7ptkV0nwiygzo8PiHfSsmQgPsjTBXnceTMlrV6ef8CTkr9egPlYUXZbsuXVprxEyX8BFam7a1eO-0BFHdn0RGkd1bqV91zMiOHRIS6p4lF08jZwM9f5SjHZeynEZukN-H1MUKWjgIc282KOliM0GOizRCCNHg",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "preferred_currency",
+      "value": "USD",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "csrftoken",
+      "value": "7V9XQNbsNi5XtnLRYTdobJE4IgUFhEvw2AtwTzvLJFwBbQrUAnik4HjCFePL91Mx",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1659519322.207836,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "gmbsessid",
+      "value": "ai4efjjjkbepcgil9zlnu2ia96t7ftjb",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1629279320.475204,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "next-i18next",
+      "value": "en",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_ga",
+      "value": "GA1.2.677487648.1628069724",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1691141724,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_gid",
+      "value": "GA1.2.606114499.1628069724",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1628156124,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_gat_gtag_UA_28578614_6",
+      "value": "1",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1628069784,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://dev.getmyboat.com",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09ADKZGYpTZomSWQTSMekGUy9SRD5wIj00N8gAqgX4uNj2gFKVw65Q5iBxUbZI4yzuVd1DJhvmPUpPwc_5xcCDpns"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MTZqNm0xOGdhc2xwOQ=="
+        }
+      ]
+    }
+  ]
+}

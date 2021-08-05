@@ -1,0 +1,134 @@
+{
+  "cookies": [
+    {
+      "sameSite": "None",
+      "name": "_GRECAPTCHA",
+      "value": "09ADKZGYppfEhs1FRkevDsFQULCQEckq6n6AjnfdafYPUfHZAyqEa99XB_ttIvTUgPipJZT-4XSvuZh-far24Ezqc",
+      "domain": ".google.com",
+      "path": "/recaptcha",
+      "expires": 1643621897.955579,
+      "httpOnly": true,
+      "secure": true
+    },
+    {
+      "sameSite": "None",
+      "name": "__ssid",
+      "value": "a43b10b543f06d40eaa11ec6a315ca0",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1754300296,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "2018-06-04-cookie-policy-acknowledged",
+      "value": "true",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1943429897,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "g-recaptcha-response",
+      "value": "03AGdBq25tzD0v_RjhYdwM9HHyecYy1VlR9eeiPGoyNMw0k0MqwS1EHnIZ75JlLCczdtIkx_j4hE0lhBAiPVQvbigSa9G_ho3dHXl3kDiaKniBsonGHQIOpR6GJyOqVzyKSBEuqnVSTreDctQsP14Vv-OHA2VkX2QYcQEZbiaqSiCi2ik0el4Y6_RmukxWM2Mg-ZcIHFA9o_GaRYB38xxLkuOGQhgdV8wIAMQs86dhweesXu8T1ZVvKmbn3lCOeYrcpknuXup4kAfolYCUI_-390EDMEdIjSU-NtCJ0rC863TaJQ7DoDV9je8FZFNG70kITBsZkiY6HwmjVJKT5WVVWxveNFfrpxCfvmw7w0tNahN8CiRctIGu_P0VkMoehhSARnBtJepYJ8C-3NziOuL5Gaane0QCYAEPRkqiaHeclncX_VIDMqeeeh5dwVRJwubtKX0bsuquD7BnMjNkFuCQtbvaf68NyPvMV6-5lhgq7LqVSpOqxHof2Z0fB45nxUJFUAOcOnufGYJCe6h0VNOhs0HIUaaZOtbMPRvgJa4qxVzmSSwOqZ5N42Niv7_Ml3jy4D60p2n3bTy-zzQ9U2XkHG94HZZsJGlJ37RyYQ89djlyueqtQJxpWv2TnSGBK7Gn5enPJ9hua19utihwc2cnYnextX0IrslDx7APlDXSZOiOfyYzOuLzPdmSl-LseBg0jRkimuaCu2hQq4YiKmsHQnNqkVG3PHyFLLFRqtxCaIc7pAbx6ExGhnkE0VWgBB5XKMox1U7HSaiTboCU6hdhPYVH6q4TDJ7xL0wL3ZGm6WoDTtZ3RMCWYRnRG0jPkANkRh9LTH8wAXzSFGvx-njCjQZFGZSBViCzQaLlkTq7xQtD4MbJjpusL-PD0kk9FA_YHIkHzE4oYzrdsomrqwc3Pm86T1gZOOOgEmhsEryKGLKEyqB5cdgAP5XMLGT0-WS2HLs0vLeTgE1w0_JBuL8a05aX7l8Dm0omgEt6C8Ur969a4o0oUt_NkVDd0jID2EjHooLCgLdnJfG8vQaN-hha-ouPdKuKba0ZfDcGFJMGT8HytwUMDcyCSmyLAbR-OgtMwdVsf0aGs734bXQpN_ji1yJasHRjTx_dW1nUJd5LNq9-3XCdoMe6wItabvGBhYOy33QCWUzeAu9n-iKaFcQSZkoeSaomtZHSgw",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "preferred_currency",
+      "value": "USD",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "csrftoken",
+      "value": "WRkjnj82m5KKD98vYL4sq88TxdtCdLli7c8S6waBUww4TcHP9j9e2cMJAMGSSCSJ",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1659519500.26293,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "gmbsessid",
+      "value": "rphz6o36fvdiebgk41zsk3ullbd5z0i9",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1629279498.579068,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Strict",
+      "name": "next-i18next",
+      "value": "en",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_ga",
+      "value": "GA1.2.1480917760.1628069903",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1691141902,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_gid",
+      "value": "GA1.2.665109999.1628069903",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1628156302,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "_gat_gtag_UA_28578614_6",
+      "value": "1",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1628069962,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://dev.getmyboat.com",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09ADKZGYoalghNzewW8cK9IxY-U9jCfjVWLs8R92El8OeLeh39XHvLR1Q4ZlH6t18XiO9xnLqnMxq9MwDRAClK418"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MThwejAzbjYwaHNpaw=="
+        }
+      ]
+    }
+  ]
+}

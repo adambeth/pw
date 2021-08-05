@@ -1,0 +1,35 @@
+{
+  "cookies": [
+    {
+      "sameSite": "None",
+      "name": "__ssid",
+      "value": "4812665f354cf161a452716458b9845",
+      "domain": ".getmyboat.com",
+      "path": "/",
+      "expires": 1754220503,
+      "httpOnly": false,
+      "secure": false
+    },
+    {
+      "sameSite": "None",
+      "name": "2018-06-04-cookie-policy-acknowledged",
+      "value": "true",
+      "domain": "dev.getmyboat.com",
+      "path": "/",
+      "expires": 1943350104,
+      "httpOnly": false,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "MWN4ZnJkMTR4cmU2bw=="
+        }
+      ]
+    }
+  ]
+}
